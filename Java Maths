@@ -38,3 +38,7 @@ int randomNum = (int)(Math.random() * 101);  // 0 to 100
 Complete Math Reference
 For a complete reference of Math methods, go to our Java Math Methods Reference.
 
+// Ceil function give upper round value
+The java.lang.Math.ceil() 
+returns the double value that is greater than or equal to the argument and is equal to the nearest mathematical integer.
+
