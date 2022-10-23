@@ -3,7 +3,7 @@ Step 2 − divide the list recursively into two halves until it can no more be d
 Step 3 − merge the smaller lists into new list in sorted order.
 Pseudocode
 We shall now see the pseudocodes for merge sort functions. As our algorithms point out two main functions − divide & merge.
-
+// comment
 Merge sort works with recursion and we shall see our implementation in the same way.
 
 procedure mergesort( var a as array )
