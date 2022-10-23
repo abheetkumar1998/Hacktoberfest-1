@@ -2,7 +2,7 @@ Step 1 − Move n-1 disks from source to aux
 Step 2 − Move nth disk from source to dest
 Step 3 − Move n-1 disks from aux to dest
 A recursive algorithm for Tower of Hanoi can be driven as follows −
-
+// ye to merko bi atta hai
 START
 Procedure Hanoi(disk, source, dest, aux)
 
