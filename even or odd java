@@ -1,6 +1,6 @@
 import java.util.Scanner;
 // even or odd
-
+// odd and even
 public class EvenOdd {
 
     public static void main(String[] args) {
