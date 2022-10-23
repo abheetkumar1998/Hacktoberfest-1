@@ -1,7 +1,7 @@
 class Solution {
     List<List<Integer>> lists;
     boolean[] added;
-    
+    //code thik krlo vro
     public List<List<Integer>> permuteUnique(int[] nums) {
         lists = new ArrayList<>();
         Arrays.sort(nums);
