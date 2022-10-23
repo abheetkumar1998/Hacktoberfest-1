@@ -2,7 +2,7 @@
 
 Procedure Fibonacci(n)
    declare f0, f1, fib, loop 
-   
+   // hogya code thik
    set f0 to 0
    set f1 to 1
    
