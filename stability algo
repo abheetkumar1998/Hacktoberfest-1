@@ -1,7 +1,7 @@
 Stability in sorting algorithms
 Last Updated: 26-09-2019
 Stability is mainly important when we have key value pairs with duplicate keys possible (like people names as keys and their details as values). And we wish to sort these objects by keys.
-
+// ye khud unstabale hai
 What is it?
 A sorting algorithm is said to be stable if two objects with equal keys appear in the same order in sorted output as they appear in the input array to be sorted.
 // comment
